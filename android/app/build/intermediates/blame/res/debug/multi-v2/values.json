@@ -1,10 +1,63 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Pratius Data/Poc-Project/RNAssessment/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/pratiusdubey/.gradle/caches/transforms-2/files-2.1/7811a4d40c7ea3b04fa0ebcf5e42e4bd/jetified-react-native-0.63.3/res/values/values.xml",
+                    "source": "/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,221",
+                        "endColumns": "63,68",
+                        "endOffsets": "216,285"
+                    },
+                    "to": {
+                        "startLines": "262,263",
+                        "startColumns": "4,4",
+                        "startOffsets": "16930,16994",
+                        "endColumns": "63,68",
+                        "endOffsets": "16989,17058"
+                    }
+                },
+                {
+                    "source": "/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "362",
+                        "startColumns": "4",
+                        "startOffsets": "25440",
+                        "endLines": "365",
+                        "endColumns": "12",
+                        "endOffsets": "25617"
+                    }
+                },
+                {
+                    "source": "/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
+                    },
+                    "to": {
+                        "startLines": "293",
+                        "startColumns": "4",
+                        "startOffsets": "19072",
+                        "endColumns": "49",
+                        "endOffsets": "19117"
+                    }
+                },
+                {
+                    "source": "/Users/pratiusdubey/.gradle/caches/transforms-2/files-2.1/45bc9c576c250ee72c0610b8d1708b8f/jetified-react-native-0.63.3/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,73,77,80,83,86,89,93,97,100,103,106,109,110,111,120,127,134,137,140,143,149",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -39,23 +92,6 @@
                         "endLines": "2096,2103,2114,3383,3388",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "141841,142226,142823,207822,208092"
-                    }
-                },
-                {
-                    "source": "/Users/Pratius Data/Poc-Project/RNAssessment/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "157,221",
-                        "endColumns": "63,68",
-                        "endOffsets": "216,285"
-                    },
-                    "to": {
-                        "startLines": "262,263",
-                        "startColumns": "4,4",
-                        "startOffsets": "16930,16994",
-                        "endColumns": "63,68",
-                        "endOffsets": "16989,17058"
                     }
                 },
                 {
@@ -116,25 +152,6 @@
                     }
                 },
                 {
-                    "source": "/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "231"
-                    },
-                    "to": {
-                        "startLines": "362",
-                        "startColumns": "4",
-                        "startOffsets": "25440",
-                        "endLines": "365",
-                        "endColumns": "12",
-                        "endOffsets": "25617"
-                    }
-                },
-                {
                     "source": "/Users/pratiusdubey/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -149,23 +166,6 @@
                         "startOffsets": "15578,15647",
                         "endColumns": "68,56",
                         "endOffsets": "15642,15699"
-                    }
-                },
-                {
-                    "source": "/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
-                    },
-                    "to": {
-                        "startLines": "293",
-                        "startColumns": "4",
-                        "startOffsets": "19072",
-                        "endColumns": "49",
-                        "endOffsets": "19117"
                     }
                 }
             ]

@@ -9,75 +9,75 @@
 9        android:targetSdkVersion="29" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission
-12-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:5:5-108
+12-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:5:5-108
 13        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
-13-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:5:22-78
+13-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:5:22-78
 14        android:maxSdkVersion="28" />
-14-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:5:79-105
+14-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:5:79-105
 15    <uses-permission
-15-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:6:5-109
+15-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:6:5-109
 16        android:name="android.permission.READ_EXTERNAL_STORAGE"
-16-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:6:22-79
+16-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:6:22-79
 17        android:maxSdkVersion="28" />
-17-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:6:81-107
+17-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:6:81-107
 18    <uses-permission android:name="android.permission.INTERNET" />
-18-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:4:5-67
-18-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:4:22-64
+18-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:4:5-67
+18-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:4:22-64
 19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 19-->[com.facebook.flipper:flipper:0.54.0] /Users/pratiusdubey/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
 19-->[com.facebook.flipper:flipper:0.54.0] /Users/pratiusdubey/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
 20
 21    <application
-21-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:7:5-27:19
+21-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:7:5-27:19
 22        android:name="com.rnassessment.MainApplication"
-22-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:8:7-38
+22-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:8:7-38
 23        android:allowBackup="false"
-23-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:12:7-34
+23-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:12:7-34
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 24-->[androidx.core:core:1.1.0] /Users/pratiusdubey/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
-26-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:10:7-41
+26-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:10:7-41
 27        android:label="@string/app_name"
-27-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:9:7-39
+27-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:9:7-39
 28        android:requestLegacyExternalStorage="true"
-28-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:14:9-52
+28-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:14:9-52
 29        android:roundIcon="@mipmap/ic_launcher_round"
-29-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:11:7-52
+29-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:11:7-52
 30        android:testOnly="true"
 31        android:theme="@style/AppTheme"
-31-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:13:7-38
+31-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:13:7-38
 32        android:usesCleartextTraffic="true" >
-32-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/debug/AndroidManifest.xml:8:18-53
+32-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/debug/AndroidManifest.xml:8:18-53
 33        <activity
-33-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:15:7-25:18
+33-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:15:7-25:18
 34            android:name="com.rnassessment.MainActivity"
-34-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:16:9-37
+34-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:16:9-37
 35            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-35-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:18:9-86
+35-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:18:9-86
 36            android:label="@string/app_name"
-36-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:17:9-41
+36-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:17:9-41
 37            android:launchMode="singleTask"
-37-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:19:9-40
+37-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:19:9-40
 38            android:windowSoftInputMode="adjustResize" >
-38-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:20:9-51
+38-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:20:9-51
 39            <intent-filter>
-39-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:21:9-24:25
+39-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:21:9-24:25
 40                <action android:name="android.intent.action.MAIN" />
-40-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:22:13-65
-40-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:22:21-62
+40-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:22:13-65
+40-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:22:21-62
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:23:13-73
-42-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:23:23-70
+42-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:23:13-73
+42-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:23:23-70
 43            </intent-filter>
 44        </activity>
 45        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-45-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:26:7-84
-45-->/Users/Pratius Data/Poc-Project/RNAssessment/android/app/src/main/AndroidManifest.xml:26:17-81
+45-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:26:7-84
+45-->/Users/Pratius Data/Poc-Project/react-native-ScreenShots/android/app/src/main/AndroidManifest.xml:26:17-81
 46    </application>
 47
 48</manifest>
