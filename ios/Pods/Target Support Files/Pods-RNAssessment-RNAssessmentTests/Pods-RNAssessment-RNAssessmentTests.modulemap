@@ -1,0 +1,6 @@
+module Pods_RNAssessment_RNAssessmentTests {
+  umbrella header "Pods-RNAssessment-RNAssessmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
