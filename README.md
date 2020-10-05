@@ -68,7 +68,7 @@ try {
 
 ## Note
 
-- It will return the Json Data.
+- It will return the Json Data including device details.
 - Please allow the file read/write permession once app launch.
 - If you have problem with old devices try avoid to connect/read/write to a peripheral during file saving.
 - Android API >= 23 require the WRITE_EXTERNAL_STORAGE & READ_EXTERNAL_STORAGE permission to file read and write for peripherals. React Native >= 0.33 natively support PermissionsAndroid like in the example.
