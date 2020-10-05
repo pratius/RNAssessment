@@ -1,7 +1,7 @@
 # react-native-ScreenShots/CaptureScreen
 
 
-A ScreenShots/CaptureScreen Native Modules & for React Native.
+A ScreenShots/CaptureScreen Native Modules & React Native bridge for React Native.
 
 Support iOS / Android.
 
